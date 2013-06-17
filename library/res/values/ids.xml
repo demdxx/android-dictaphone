@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <item type="id" name="btn_rec" />
+  <item type="id" name="btn_pause" />
+  <item type="id" name="btn_play" />
+  <item type="id" name="btn_stop" />
+</resources>

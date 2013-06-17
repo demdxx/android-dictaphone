@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android-dictaphone-example</string>
+    <string name="time_empty">00:00:00</string>
+    
+    <string name="btn_rec">Rec</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_stop">Stop</string>
+
+</resources>
